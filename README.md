@@ -1,68 +1,90 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> Burger Builder </h1> <br>
+<p align="center">
+	<a href="http://tinypic.com?ref=2wn8rj5" target="_blank">
+		<img src="http://i64.tinypic.com/2wn8rj5.png" border="0" alt="Smart-Brain">
+	</a>
+</p>
 
-## Available Scripts
+<table>
+	<tr>
+		<td>
+			Burger Maker is ReactJS based web application which makes the burger live as per your ingredients 
+      and made from scratch and it's backend is on FireBase.
+		</td>
+	</tr>
+</table>
 
-In the project directory, you can run:
+## Demo
 
-### `npm start`
+Here is a working live demo : http://burgerapp.surge.sh/
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Site
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### Home Page
 
-### `npm test`
+![homepage](https://user-images.githubusercontent.com/35633575/52910419-3d4a5480-32bd-11e9-9ba7-d9350bf15baf.png)
+<img width="1440" alt="screenshot 2019-02-17 at 2 05 08 pm" src="https://user-images.githubusercontent.com/35633575/52910432-5ce17d00-32bd-11e9-9d7d-b708f6d00003.png">
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Adding ingredients
 
-### `npm run build`
+![ingredients](https://user-images.githubusercontent.com/35633575/52910444-7682c480-32bd-11e9-865f-b60bf34c97a4.png)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1440" alt="screenshot 2019-02-17 at 2 05 26 pm" src="https://user-images.githubusercontent.com/35633575/52910454-94502980-32bd-11e9-9950-688a77728e89.png">
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Checkout
 
-### `npm run eject`
+![checkout](https://user-images.githubusercontent.com/35633575/52910455-96b28380-32bd-11e9-8a63-2f60de43fcf7.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Contact Form
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![contact](https://user-images.githubusercontent.com/35633575/52910456-9914dd80-32bd-11e9-89e5-b9f65ec80123.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Orders
 
-## Learn More
+![orders](https://user-images.githubusercontent.com/35633575/52910457-9adea100-32bd-11e9-946d-f6f52528b410.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## [Usage](https://github.com/coderrsid/BurgerMakerApp
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Development
 
-### Code Splitting
+Want to contribute? Great!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+To fix a bug or enhance an existing module, follow these steps:
 
-### Analyzing the Bundle Size
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -m 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Bug / Feature Request
 
-### Making a Progressive Web App
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/coderrsid/smart-brain-app/issues/new) by including your search query and the expected result.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/coderrsid/smart-brain-app/issues/new). Please include sample queries and their corresponding results.
 
-### Advanced Configuration
+## Built with
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- [ReactJS](https://reactjs.org/) - React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+- [NPM](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.
+- [FireBase](https://firebase.google.com/) - Firebase is a Backend-as-a-Service — BaaS — that started as a YC11 startup and grew up into a next-generation app-development platform on Google Cloud Platform.
+-[Redux](https://redux.js.org/) - Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more.
 
-### Deployment
+## To-do
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- Add Register User in app
+- Add home page to app
 
-### `npm run build` fails to minify
+## Sources-Used
+- Axios
+- FireBase
+- React Router
+- Redux
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Developer
+
+[Siddhant Sehgal](https://github.com/coderrsid)
