@@ -1,7 +1,5 @@
 <h1 align="center"> Burger Builder </h1> <br>
 <p align="center">
-		<img src="https://imge.to/i/vwxnbR" border="0" alt="Smart-Brain">
-	</a>
 </p>
 
 <table>
