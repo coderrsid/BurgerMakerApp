@@ -1,7 +1,7 @@
 <h1 align="center"> Burger Builder </h1> <br>
 <p align="center">
 	<a href="http://tinypic.com?ref=2wn8rj5" target="_blank">
-		<img src="http://i64.tinypic.com/2wn8rj5.png" border="0" alt="Smart-Brain">
+		<img src="https://ibb.co/tJ2WKvx" border="0" alt="Smart-Brain">
 	</a>
 </p>
 
